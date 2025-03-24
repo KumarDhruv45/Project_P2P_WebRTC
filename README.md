@@ -1,2 +1,15 @@
-# Project_P2P_webrtc
- Our WebRTC Video Calling App is a real-time communication platform that enables users to make high-quality video and audio calls directly from their web browsers or mobile devices. Built on WebRTC (Web Real-Time Communication) technology, this application facilitates peer-to-peer connections without requiring external plugins or software installations.  Features  One-to-One and Group Calls: Seamlessly connect with individuals or multiple users in a single session.  High-Quality Video & Audio: Experience crystal-clear video and audio powered by WebRTC.  Screen Sharing: Share your screen for presentations, collaborations, or remote assistance.  Text Chat: Integrated messaging feature to complement video calls.  Secure Communication: End-to-end encryption ensures privacy and data security.  Cross-Platform Compatibility: Accessible via web browsers, desktop, and mobile devices.  Customizable UI/UX: A responsive and intuitive interface tailored to user preferences.  Technology Stack  Frontend: HTML, CSS, JavaScript, React.js (or Vue.js/Angular)  Backend: Node.js with Express.js (or Django/Flask)  WebRTC API: Peer-to-peer communication handling  Database: Firebase, MongoDB, or PostgreSQL  Signaling Server: WebSockets or WebRTC Signaling (via STUN/TURN servers)  Cloud & Hosting: AWS, Google Cloud, or DigitalOcean
+Experience seamless, real-time video calls with direct peer-to-peer (P2P) connectivity powered by WebRTC – no central servers, just pure low-latency, high-quality communication.
+
+ Key Highlights:
+ Instant P2P Video Calls – No intermediaries, just smooth connections.
+ Ultra-Low Latency & HD Streaming – Experience crystal-clear communication.
+ Secure & Encrypted – Ensuring privacy with end-to-end encryption.
+ Lightweight & Fast – No heavy backend, just WebRTC magic.
+ Works Across Devices – Browser-based, no installation needed.
+
+ Tech Stack:
+ Frontend: React.js / Next.js (Modern & Responsive UI)
+ Backend (Signaling): Node.js / Express.js (WebSocket or Firebase-based)
+ Core Technology: WebRTC API (RTCPeerConnection, RTCDataChannel)
+ STUN/TURN Servers: Google STUN / Coturn (NAT traversal for global reach)
+ Hosting: Vercel / Firebase / AWS (Fast & Scalable Deployment)
