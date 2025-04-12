@@ -12,4 +12,4 @@ Experience seamless, real-time video calls with direct peer-to-peer (P2P) connec
  Backend (Signaling): Node.js / Express.js (WebSocket or Firebase-based)
  Core Technology: WebRTC API (RTCPeerConnection, RTCDataChannel)
  STUN/TURN Servers: Google STUN / Coturn (NAT traversal for global reach)
- Hosting: Vercel / Firebase / AWS ((Fast & Scalable Deployment))
+ Hosting: Vercel / Firebase / AWS ((Fast & Scalable Deployment)
